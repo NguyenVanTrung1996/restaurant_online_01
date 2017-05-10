@@ -1,0 +1,52 @@
+.product_item
+{
+
+}
+.product_meta
+{
+
+}
+.review
+{
+
+}
+.clearfix
+{
+
+}
+.name>a
+{
+    text-decoration: none;
+    font-size: 16px;
+    display: block;
+    color: #5e5e5e;
+}
+.name>a:hover
+{
+    color: #eea236;
+}
+.price
+{
+    color: #f8694d;
+    font-family: Arial,sans-serif;
+    font-size: 14px;
+    padding: 0px;
+    font-weight: 700;
+}
+.old-price
+{
+    font-size: 12px;
+    color: #828282;
+    font-weight: 700;
+    text-decoration: line-through;
+    font-family: Arial,sans-serif;
+    padding: 0px;
+}
+.name
+{
+    margin:1px 0px;
+}
+.fix_btn
+{
+    border-radius: 15px;
+}
